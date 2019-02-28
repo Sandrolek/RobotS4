@@ -6,6 +6,7 @@ IP_BOARD        = '192.168.1.234'
 PORT_BOARD      = 6000
 PORT_BOARD_WD   = 6001
 
+
 IP_PULT         = '192.168.1.113'
 PORT_PULT       = 6010
 PORT_PULT_WD    = 6011
